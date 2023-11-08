@@ -1,0 +1,33 @@
+
+body{
+    background-color: aliceblue;
+    height: 80%;
+    width: 90%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.heading{
+    padding-left: 10px;
+    font-size: 60px;
+}
+
+.small-heading{
+    padding-left: 25px;
+    font-size: 50px;
+    color: blue;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    padding-left: 80px;
+}
+
+li{
+    font-size: 25px;
+    line-height: 2;
+}
+
+.dec{
+    text-decoration: line-through;
+}
